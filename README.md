@@ -7,3 +7,6 @@ Compile: `g++ src/matrix.cpp -o matrix`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by jocck96.*
